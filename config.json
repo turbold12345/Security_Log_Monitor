@@ -1,0 +1,7 @@
+{
+    "risk_thresholds": {
+        "low": 3,
+        "medium": 7,
+        "high": 15
+    }
+}
